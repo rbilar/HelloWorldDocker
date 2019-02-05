@@ -1,8 +1,8 @@
-#H Hello World
+# Hello World
 
 Esse projeto é apenas para entender como subir construir uma aplicação .net core e colcoar dentro do Docker.
 
-##Instruções
+## Instruções
 
 ### Criando o Docker
 ```
